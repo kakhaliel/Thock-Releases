@@ -8,6 +8,8 @@
 <p align="center">
   <a href="https://github.com/kakhaliel/Thock-Releases/releases/latest/download/Thock.dmg"><b>⬇&nbsp; Download Thock for Mac</b></a>
   &nbsp;·&nbsp;
+  <a href="https://khalidkhalil.dev/apps/thock">Hear it in your browser</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/kakhaliel/Thock-Releases/releases">All versions</a>
 </p>
 
@@ -55,4 +57,4 @@ The keyboard recordings come from the open-source **Mechvibes** and **ClickClack
 
 ---
 
-<p align="center"><sub>Made by <a href="https://github.com/kakhaliel">Khalid Khalil</a> · info@khalidkhalil.com · © 2026</sub></p>
+<p align="center"><sub>Made by <a href="https://khalidkhalil.dev">Khalid Khalil</a> · info@khalidkhalil.dev · © 2026</sub></p>
