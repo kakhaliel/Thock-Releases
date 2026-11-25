@@ -1,5 +1,13 @@
 # What's new in Thock
 
+## v1.2.0 — 2026-11-25
+
+- New: Thock updates itself. When a new version is out, a small window shows what's new; click Install and Restart and Thock is up to date a few seconds later.
+- New: Check for Updates… in the Thock menu and in the menu bar icon's right-click menu.
+- New: Settings → General → "Check for updates automatically", with a Check Now button.
+
+This is the last version you need to download by hand. Later versions arrive by themselves.
+
 ## v1.1.0 — 2026-11-24
 
 A new look, in the same family as Khalid Khalil's other apps.
